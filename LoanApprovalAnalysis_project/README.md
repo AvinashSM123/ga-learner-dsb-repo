@@ -1,0 +1,1 @@
+Loan Approval Analysis was done on the given dataset using the pandas inbuilt functions
